@@ -1,0 +1,12 @@
+<footer data-anil="foot1" >Footer</footer>
+
+1. element selector
+2. Id 
+3. class
+
+
+
+element.setAttribute('attributeName','attributeValue');
+
+
+DRY = Dont Repeate YOurself
